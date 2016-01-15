@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>content</key>
+		<string>喂，你好！</string>
+		<key>icon</key>
+		<string>16.jpg</string>
+		<key>time</key>
+		<string>前天 10:25</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>问你个严肃的事</string>
+		<key>icon</key>
+		<string>16.jpg</string>
+		<key>time</key>
+		<string>前天 10:25</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>说，什么事？</string>
+		<key>icon</key>
+		<string>17.jpg</string>
+		<key>time</key>
+		<string>昨天 20:05</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>我就想问下：你是不是我最好的朋友？</string>
+		<key>icon</key>
+		<string>16.jpg</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>不借</string>
+		<key>icon</key>
+		<string>17.jpg</string>
+		<key>time</key>
+		<string>昨天 20:30</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>你就回答“是”或者“不是”。</string>
+		<key>icon</key>
+		<string>16.jpg</string>
+		<key>time</key>
+		<string>今天 22:23</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>
